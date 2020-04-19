@@ -10,7 +10,7 @@ print('cos tam')
 
 product_sum = sum(map(len,shopping.values()))
 
-
+print('cos tam')
 
 
 for store, product in shopping.items():
