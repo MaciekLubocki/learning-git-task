@@ -5,7 +5,12 @@ shopping = {
 "piekarnia":["bułki","chleb","bagietka"]} 
 
 
+
+print('cos tam')
+
 product_sum = sum(map(len,shopping.values()))
+
+
 
 
 for store, product in shopping.items():
